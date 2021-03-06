@@ -2,14 +2,12 @@
   width: 355px;
   background-color: lightblue;
   padding: 35px;
-/* Add margin here. */
-.blockElement {
-  margin-left:auto;
+  margin:0 auto;
+  text-align:left;
+
 }
 
 
-/* Add text align below */
-}
 
 
 
