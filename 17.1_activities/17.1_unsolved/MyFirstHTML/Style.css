@@ -1,11 +1,19 @@
-h1{color:rgb(255, 0, 76)}
-h1{background-color:cornflowerblue
-
-p color black}
-a{color:chartreuse}
+h1{ 
+    color:rgb(255, 0, 76);
+    text-align: center;
+}        
+p {
+    color: black;
+    font-size:30px;
+}
+a {
+    color:chartreuse;
+}
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
-
-    background-color
- p {font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:yellow;
+    font-size:50px;
+}
+ p {
+    background-color:cornflowerblue;
 }
