@@ -1,0 +1,13 @@
+#hero {
+    background:url("../images/hero-background-image.png");
+    background-repeat:no-repeat;
+    height:75vh;
+    background-size:cover;
+
+}
+#hero .jumbotron, #hero .bg-light {
+    background-color:none important !important;
+
+}
+
+.jumbotron {}
